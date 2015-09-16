@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phantomjsNET", "phantomjsNET\phantomjsNET.csproj", "{DDB27070-A4D7-4F29-9C87-FB866635E79B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phantomjsServer", "phantomjsServer\phantomjsServer.csproj", "{BA59B478-C505-4997-8DDB-75E9C9DF9AB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB27070-A4D7-4F29-9C87-FB866635E79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB27070-A4D7-4F29-9C87-FB866635E79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB27070-A4D7-4F29-9C87-FB866635E79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB27070-A4D7-4F29-9C87-FB866635E79B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA59B478-C505-4997-8DDB-75E9C9DF9AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA59B478-C505-4997-8DDB-75E9C9DF9AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA59B478-C505-4997-8DDB-75E9C9DF9AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA59B478-C505-4997-8DDB-75E9C9DF9AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
