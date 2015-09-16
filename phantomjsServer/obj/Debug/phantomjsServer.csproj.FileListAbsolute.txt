@@ -1,9 +1,0 @@
-D:\hepf\personal_job\phantomjsNET\phantomjsNET\phantomjsServer\bin\Debug\phantomjsServer.exe.config
-D:\hepf\personal_job\phantomjsNET\phantomjsNET\phantomjsServer\bin\Debug\phantomjsServer.exe
-D:\hepf\personal_job\phantomjsNET\phantomjsNET\phantomjsServer\bin\Debug\phantomjsServer.pdb
-D:\hepf\personal_job\phantomjsNET\phantomjsNET\phantomjsServer\obj\Debug\phantomjsServer.csprojResolveAssemblyReference.cache
-D:\hepf\personal_job\phantomjsNET\phantomjsNET\phantomjsServer\obj\Debug\phantomjsServer.Form1.resources
-D:\hepf\personal_job\phantomjsNET\phantomjsNET\phantomjsServer\obj\Debug\phantomjsServer.Properties.Resources.resources
-D:\hepf\personal_job\phantomjsNET\phantomjsNET\phantomjsServer\obj\Debug\phantomjsServer.csproj.GenerateResource.Cache
-D:\hepf\personal_job\phantomjsNET\phantomjsNET\phantomjsServer\obj\Debug\phantomjsServer.exe
-D:\hepf\personal_job\phantomjsNET\phantomjsNET\phantomjsServer\obj\Debug\phantomjsServer.pdb
